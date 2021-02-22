@@ -1,16 +1,26 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "author": "john",
+      "title": "bater",
+      "id": 5
+    },
+    {
+      "author": "johnthahds",
+      "title": "123",
+      "id": 6
+    },
+    {
+      "author": "argus",
+      "title": "naht",
+      "id": 7
     }
   ],
   "comments": [
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "author": "johnthahds",
+      "title": "123",
+      "id": 1
     }
   ],
   "profile": {
